@@ -1,2 +1,3 @@
-# tcc_app_smart
-App criado para uma empresa de jogos da Etec Professor Basilides de Godoy para fins educacionais
+# flutter_application_1
+
+A new Flutter project.
